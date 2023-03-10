@@ -1,2 +1,2 @@
 # things
-Here are some coding tips and tricks that I wanted to try 
+Here are some coding tricks that I have tried
